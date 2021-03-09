@@ -13,8 +13,10 @@ I am Uthman Allison an aspiring Data Scientist. Interested in the theory and app
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 
+#### Most Used Languages
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=alliwene&layout=compact)
 
+#### Github Stats
 ![My github stats](https://github-readme-stats.vercel.app/api?username=alliwene&show_icons=true&theme=radical&hide=contribs,issues)
 
 
