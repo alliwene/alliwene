@@ -5,5 +5,5 @@ I am Uthman Allison an aspiring Data Scientist. Interested in the theory and app
 - 💻 Interned as an **ML Engineer** at [Rural Farmers Hub](https://ruralfarmershub.com/). 
 - 👯 Looking to collaborate on cool computer vision projects.
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=alliwene&show_icons=true&theme=onedark)
+![My github stats](https://github-readme-stats.vercel.app/api?username=alliwene&show_icons=true&theme=dracula)
 
