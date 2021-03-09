@@ -5,7 +5,7 @@ I am Uthman Allison an aspiring Data Scientist. Interested in the theory and app
 - 💻 Interned as an **ML Engineer** at [Rural Farmers Hub](https://ruralfarmershub.com/). 
 - 👯 Looking to collaborate on cool computer vision projects.
 
-**Languages and Tools:**  
+#### **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
