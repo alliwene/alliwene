@@ -24,7 +24,7 @@ I am Uthman Allison an aspiring Data Scientist. Interested in the theory and app
 <p align="center">
   <i>Let's connect and chat! </i>
 <p align="center">
-    <a href="https://twitter.com/aliiwene" alt="Twitter"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/twitter.png"></a>
+    <a href="https://twitter.com/alliwene" alt="Twitter"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/twitter.png"></a>
     <a href="https://www.linkedin.com/in/uthmanallison" alt="Linkedin"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/linkedin.png"></a>
     <a href="https://www.instagram.com/iamgoriola" alt="Instagram"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/insta.png"></a>
     <a href="https://github.com/alliwene" alt="GitHub"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/github.png"></a>
